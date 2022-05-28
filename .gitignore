@@ -1,0 +1,7 @@
+/ContenidoSecreto
+*dynamics/php/config.php
+*assets/*.pdf
+*.txt
+*!-system.*
+*-prueba*
+*-local*
