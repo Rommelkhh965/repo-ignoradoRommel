@@ -1,7 +1,13 @@
-/ContenidoSecreto
+**/ContenidoSecreto
 *dynamics/php/config.php
-*assets/*.pdf
+**assets/**/*.pdf
 *.txt
-*!-system.*
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.webp
+!*-system.*
 *-prueba*
 *-local*
+!*-experimento.*
